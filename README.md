@@ -1,2 +1,2 @@
-# AssignmentSolutions_ML-Coursera-
+# AssignmentSolutions_ML-Coursera
 My Octave assignment solutions for  Machine Learning course at Coursera 
